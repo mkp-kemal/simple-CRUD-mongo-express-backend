@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/vehicle/(.*)",
+            "destination": "/vehicle"
+        }
+    ]
+}
